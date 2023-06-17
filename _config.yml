@@ -1,3 +1,5 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://daehopark.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+title: "SimpLog" # the name of your site
+lang: "ko-KR" # the locale information of your site
+permalink: /post/:title # title only
